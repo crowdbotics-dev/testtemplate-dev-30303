@@ -1244,7 +1244,10 @@
 "@screens/about-the-app-screen@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/advance-search@file:./screens/advance-search/":
+"@screens/add-review@file:./screens/add-review/":
+  version "1.0.0"
+
+"@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
